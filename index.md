@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My loarning journal
 
 You can use the [editor on GitHub](https://github.com/KaterynaShydlovska/learning-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
