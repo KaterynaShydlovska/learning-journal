@@ -1,4 +1,29 @@
-## My loarning journal
+# Welcome to my loarning journal
+
+- Write a brief introduction of yourself. Include a link to your github page
+- Explain what this learning journal is
+- Explain Growth Mindset in your own words
+- Include 3 reminders to yourself of how to keep yourself in a growth mindset
+- Utilize at least 5 different features of Markdown to structure your page
+
+
+He, my name Is Kateryna. I'm originally from Ukraine. I moved to US 3 years ago. Before to come to Code Fellows I had a long way and tried myself in different areas, after a while I decided to try myself in programming and here I am for today.
+Here is link to my github page https://github.com/KaterynaShydlovska.
+
+## Learning journal
+
+My learning journal is a first small project in the Code Fellows.
+It's a small story abot me and my way.
+
+### Growth Mindset in my understending 
+A growth mindset is the belief that intelligence can be developed. People with a growth mindset understand they can get smarter through hard work, the use of effective strategies, and help from others when needed.
+
+#### 3 reminders of how to keep yourself in a growth mindset
+ 
+ 1. Don't give up!
+ 2. Nothing is impossible
+ 3. Always remember your final goal
+
 
 You can use the [editor on GitHub](https://github.com/KaterynaShydlovska/learning-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
