@@ -62,7 +62,7 @@ obtain information about what type of file a file or directory is.
 List the contents of a directory, including hidden files.
 
 
-_Important Concepts_
+_Important Concepts_ :
 
 -  **Relative path**
 
