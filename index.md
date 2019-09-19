@@ -25,8 +25,8 @@ A growth mindset is the belief that intelligence can be developed. People with a
 
 ## _Goal for 2nd Lab is "The Coder's Computer"_
 *1. We went for a few steps* 
-..* Explored the Terminal
-..* Changed the Terminal Profile
++ Explored the Terminal
++ Changed the Terminal Profile
 ..* Installed Tree view
 ..* Installed Git
 ..* Installed VSCode Text Editor and etc.
