@@ -27,14 +27,14 @@ A growth mindset is the belief that intelligence can be developed. People with a
 *1. We went for a few steps* 
 + Explored the Terminal
 + Changed the Terminal Profile
-..* Installed Tree view
-..* Installed Git
-..* Installed VSCode Text Editor and etc.
++ Installed Tree view
++ Installed Git
++ Installed VSCode Text Editor and etc.
 
 *2. Read introduction to using a terminal*
-..* The Command Line
-..* Basic Navigation
-..* About Files
++ The Command Line
++ Basic Navigation
++ About Files
 
 
 ### First let's see "What Command Line is?"
