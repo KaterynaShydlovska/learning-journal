@@ -43,28 +43,28 @@ A command line, or terminal, is a text based interface to the system. You are ab
 
 ### Also from the reading pert we learnt:
 
-_ The most common comand:_
-**pwd**
+_ The most common comand_ :
+- **pwd**
 Print Working Directory - ie. Where are we currently.
-**ls**
+-  **ls**
 List the contents of a directory.
-**cd**
+-  **cd**
 Change Directories - ie. move to another directory.
-**file**
+-  **file**
 obtain information about what type of file a file or directory is.
-**ls -a**
+-  **ls -a**
 List the contents of a directory, including hidden files.
 
 
 _Important Concepts_
-**Relative path**
+-  **Relative path**
 A file or directory location relative to where we currently are in the file system.
-**Absolute path**
+-  **Absolute path**
 A file or directory location in relation to the root of the file system.
-**Everything is a file under**
+-  **Everything is a file under**
 Even directories.
-**Linux is an extensionless system**
+-  **Linux is an extensionless system**
 Files can have any extension they like or none at all.
-**Linux is case sensitive**
+-  **Linux is case sensitive**
 Beware of silly typos.
 
