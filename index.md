@@ -21,3 +21,14 @@ A growth mindset is the belief that intelligence can be developed. People with a
 - Always remember your final goal
 
 
+# My 2nd Day at the School
+
+## Goal for 2nd Lab is "The Coder's Computer".
+1. We went for a few steps 
+-Explored the Terminal
+-Changed the Terminal Profile
+-Installed Tree view
+-Installed Git
+-Installed VSCode Text Editor and etc.
+
+2. 
