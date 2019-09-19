@@ -62,11 +62,15 @@ _Important Concepts_
 
 A file or directory location relative to where we currently are in the file system.
 -  **Absolute path**
+
 A file or directory location in relation to the root of the file system.
 -  **Everything is a file under**
+
 Even directories.
 -  **Linux is an extensionless system**
+
 Files can have any extension they like or none at all.
 -  **Linux is case sensitive**
+
 Beware of silly typos.
 
