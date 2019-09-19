@@ -45,7 +45,7 @@ A command line, or terminal, is a text based interface to the system. You are ab
 
 _The most common comand_ :
 - **pwd** 
-..Print Working Directory - ie. Where are we currently.
+-- hit Print Working Directory - ie. Where are we currently.
 -  **ls**
 List the contents of a directory.
 -  **cd**
