@@ -91,7 +91,7 @@ In order to explain Git, we have to first explain various aspects of Version Con
 
 [https://blog.udemy.com/git-tutorial-a-comprehensive-guide/] (_Local Version Control_)
 
-[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/https://blog.udemy.com/git-tutorial-a-comprehensive-guide/] (_Centralized Version Control_)
+[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/] (_Centralized Version Control_)
 
 [https://blog.udemy.com/git-tutorial-a-comprehensive-guide/] (_Distributed Version Control_)
 
