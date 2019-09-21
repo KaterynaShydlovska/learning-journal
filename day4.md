@@ -18,4 +18,4 @@ Hypertext Markup Language (HTML) is the standard markup language for documents d
 
 
 
-[https://katerynashydlovska.github.io/learning-journal/](Home page)
+[Home page](https://katerynashydlovska.github.io/learning-journal/)
