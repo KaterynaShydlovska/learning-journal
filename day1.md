@@ -1,5 +1,6 @@
 # Day 1!
 
+[Day2](day2.md)
 ## Brief introduction of myself :smile:
 
 He, my name is Kateryna. I'm originally from Ukraine. I moved to US 3 years ago. Before to come to _Code Fellows_ I had a long way and tried myself in different areas, after a while I decided to try myself in programming and here I am for today.

@@ -1,5 +1,7 @@
 # My 2nd Day at the School :wink:
 
+[Day3](day3.md)
+
 ## _Goal for 2nd Lab is "The Coder's Computer"_
 *1. We went for a few steps* 
 + Explored the Terminal
