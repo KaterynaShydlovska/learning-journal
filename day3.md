@@ -35,4 +35,4 @@ Git is set up to greatly _minimize_ the possibility of irreversible damage to fi
 2. What is "commit" and how to do it
 3. How to push all documents with changes back to GitHub.
 
-[Home Page](https://katerynashydlovska.github.io/learning-journal/)
+[Next](https://katerynashydlovska.github.io/learning-journal/day4.html)

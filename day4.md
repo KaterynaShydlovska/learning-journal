@@ -1,7 +1,21 @@
 [Back](https://katerynashydlovska.github.io/learning-journal/day3.html)
 
-#Day 4 Structure web pages with HTML
+# Day 4!
+## Structure web pages with HTML
 
-## Whar HTML is?
+**What HTML is?**
+Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser.
 
-_Hypertext Markup Language_ (HTML) is the standard markup language for documents designed to be displayed in a web browser. 
+**_Summary Structure_**
+
+- HTML pages ae text documents.
+- HTML uses tags, which are characters that sit inside angled brackets.
+- Tags ussually come in pairs (<p></p>)
+- To learn HTML you need to know what tags are avalible for you to use, what they do, and where they go.
+
+
+
+
+
+
+[https://katerynashydlovska.github.io/learning-journal/](Home page)
