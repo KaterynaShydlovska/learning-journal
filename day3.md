@@ -32,3 +32,5 @@ Git is set up to greatly _minimize_ the possibility of irreversible damage to fi
 1. How to clone documents from GitHub to our laptop
 2. What is "commit" and how to do it
 3. How to push all documents with changes back to GitHub.
+
+[Home Page](https://katerynashydlovska.github.io/learning-journal/)
