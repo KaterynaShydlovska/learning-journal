@@ -1,6 +1,6 @@
 # My 2nd Day at the School :wink:
 
-[Day3](day3.md)
+[Back](https://katerynashydlovska.github.io/learning-journal/day1.html)
 
 ## _Goal for 2nd Lab is "The Coder's Computer"_
 *1. We went for a few steps* 
@@ -59,4 +59,4 @@ Files can have any extension they like or none at all.
 
 Beware of silly typos.
 
-[Day3](https://katerynashydlovska.github.io/learning-journal/day3.html)
+[Next](https://katerynashydlovska.github.io/learning-journal/day3.html)
