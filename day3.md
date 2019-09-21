@@ -27,7 +27,7 @@ Git mostly relies on local operations because most necessary information can be 
 
 Git is set up to greatly _minimize_ the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost.
 
-# In End of the Day3 we learnt:
+# In End of the Day 3 we learnt:
 
 1. How to clone documents from GitHub to our laptop
 2. What is "commit" and how to do it
