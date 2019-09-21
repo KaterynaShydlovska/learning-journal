@@ -58,3 +58,5 @@ Files can have any extension they like or none at all.
 -  **Linux is case sensitive**
 
 Beware of silly typos.
+
+[Day3](https://katerynashydlovska.github.io/learning-journal/day3.html)

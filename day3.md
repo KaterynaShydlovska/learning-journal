@@ -13,7 +13,7 @@ In order to explain Git, we have to first explain various aspects of Version Con
 
 3._Distributed Version Control_
 
-[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/](more information you about VC you can find go to the link)
+[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/] (more information you about VC you can find follow the link)
 
 ### History of Git
 
@@ -27,8 +27,10 @@ Git mostly relies on local operations because most necessary information can be 
 
 Git is set up to greatly _minimize_ the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost.
 
-# In End of the Day3 we learnt:
+# In End of the Day 3 we learnt:
 
 1. How to clone documents from GitHub to our laptop
 2. What is "commit" and how to do it
 3. How to push all documents with changes back to GitHub.
+
+[Home Page](https://katerynashydlovska.github.io/learning-journal/)
