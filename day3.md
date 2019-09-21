@@ -13,7 +13,7 @@ In order to explain Git, we have to first explain various aspects of Version Con
 
 3._Distributed Version Control_
 
-[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/] (more information you about VC you can find go to the link)
+[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/] (more information you about VC you can find follow the link)
 
 ### History of Git
 
