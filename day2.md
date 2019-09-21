@@ -1,6 +1,8 @@
+[Back](https://katerynashydlovska.github.io/learning-journal/day1.html)
+
 # My 2nd Day at the School :wink:
 
-[Back](https://katerynashydlovska.github.io/learning-journal/day1.html)
+
 
 ## _Goal for 2nd Lab is "The Coder's Computer"_
 *1. We went for a few steps* 
