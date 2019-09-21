@@ -7,11 +7,13 @@ In order to explain Git, we have to first explain various aspects of Version Con
 **_Version Control_** is a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified.
 
 
-[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/] (_Local Version Control_)
+1._Local Version Control_
 
-[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/] (_Centralized Version Control_)
+2._Centralized Version Control_
 
-[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/] (_Distributed Version Control_)
+3._Distributed Version Control_
+
+[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/](more information you about VC you can find go to the link)
 
 ### History of Git
 
