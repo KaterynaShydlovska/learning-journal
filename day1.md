@@ -19,4 +19,4 @@ A growth mindset is the belief that intelligence can be developed. People with a
 - Nothing is impossible
 - Always remember your final goal
 
-![Day2](https://katerynashydlovska.github.io/learning-journal/day2.html)
+[Day2](https://katerynashydlovska.github.io/learning-journal/day2.html)
