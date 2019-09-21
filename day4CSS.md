@@ -15,4 +15,4 @@ Also, color pickers can help you find the color you need.
 - CSS3 has introduced an extra value for RGB colors to indicate opacity )RGBA).
 - CSS3 also allows you to specify colors as HSL values, with an optional opacity value (HSLA).
 
-[Home page](https://katerynashydlovska.github.io/learning-journal/)
+[Next](https://katerynashydlovska.github.io/learning-journal/day4SJ.html)
