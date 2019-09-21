@@ -24,4 +24,4 @@ _HTML5_(work in progress)
 
 
 
-[Home page](https://katerynashydlovska.github.io/learning-journal/)
+[Next](https://katerynashydlovska.github.io/learning-journal/day4CSS.md)
