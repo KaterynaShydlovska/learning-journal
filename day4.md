@@ -24,4 +24,4 @@ _HTML5_(work in progress)
 
 
 
-[Next](https://katerynashydlovska.github.io/learning-journal/day4CSS.md)
+[Next](https://katerynashydlovska.github.io/learning-journal/day4CSS.html
