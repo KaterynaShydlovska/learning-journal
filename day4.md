@@ -10,7 +10,7 @@ Hypertext Markup Language (HTML) is the standard markup language for documents d
 
 - HTML pages ae text documents.
 - HTML uses tags, which are characters that sit inside angled brackets.
-- Tags ussually come in pairs (<p></p>)
+- Tags ussually come in pairs (_p_ _/p_)
 - To learn HTML you need to know what tags are avalible for you to use, what they do, and where they go.
 
 ## Since the web was first created, there have been several different versions of HTLP
@@ -34,7 +34,7 @@ _HTML5_(work in progress)
 + Escape characters are used to include special characters in your pages such as <,>.
 
 
-### Creating WEB Cite
+### Creating WEB Site
 
 + When you are starting create your web cite it's important to understand who your target audience is, why they would come to your site, what infrmation they want to find and when they are likely to return.
 
