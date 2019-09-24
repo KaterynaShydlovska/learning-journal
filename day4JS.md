@@ -61,4 +61,4 @@ The JS interpreter knows this _keyword_ is used to create a varible.
 
 - BOOLEAN DATA TYPE
 
-[Home page](https://katerynashydlovska.github.io/learning-journal/)
+[Next](https://katerynashydlovska.github.io/learning-journal/day7.html)
