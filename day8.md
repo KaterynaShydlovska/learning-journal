@@ -1,6 +1,6 @@
 [Back](https://katerynashydlovska.github.io/learning-journal/day7.html)
 
-# Computer Architecture and Logic :smile:
+# DAY 8! Computer Architecture and Logic :smile:
 
 ## Loops
 
