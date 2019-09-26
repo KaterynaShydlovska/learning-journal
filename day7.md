@@ -46,4 +46,4 @@ Expressions rely on things called operators.
 
 **Functions** let us group a series of statements together to perform a spcific task. If different parts of script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
 
-[Home page](https://katerynashydlovska.github.io/learning-journal/)
+[Next](https://katerynashydlovska.github.io/learning-journal/day8.html)

@@ -9,6 +9,7 @@
 5. [Day4CSS](day4CSS.md)
 6. [Day4JS](day4JS.md)
 7. [Day7](day7.md)
+8. [Day8](day8.md)
 
 
 
